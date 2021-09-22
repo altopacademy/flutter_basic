@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Flutter Bass'),
+            title: Text('Flutter Basse'),
           ),
           body: Image.asset('assets/images/primary.png')),
     );
